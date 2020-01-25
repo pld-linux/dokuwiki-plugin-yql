@@ -1,6 +1,5 @@
 %define		plugin	yql
 %define		php_min_version 5.0.0
-%include	/usr/lib/rpm/macros.php
 Summary:	A plugin for embedding results of the Yahoo! YQL query API in a page
 Name:		dokuwiki-plugin-%{plugin}
 Version:	20110703
